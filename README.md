@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **mvbattista/mvbattista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-![MVBattista's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbattista&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MVBattista's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbattista&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mvbattista&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
