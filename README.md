@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![MVBattista's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbattista&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MVBattista's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvbattista&theme=github_dark&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mvbattista&layout=compact&theme=github_dark&hide=sqlpl,plpgsql)](https://github.com/anuraghazra/github-readme-stats)
